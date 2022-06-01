@@ -1,5 +1,5 @@
 # Drawing resources 
-Royalty-free (public domain / CC0-licensed) resources for drawing.
+Royalty-free (public domain or CC0-licensed) resources for drawing.
 
 ## [Applications](applications/)
 ### [Web](applications/web/)
