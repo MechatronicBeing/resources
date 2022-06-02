@@ -1,5 +1,5 @@
 # MechatronicBeing resources 
-Royalty-free (public domain or CC0-licensed) resources.
+Free "public-domain"-like licensed resources.
 
 ## Licenses
 - **Main content** : [Creative Commons CC0 Public Domain Dedication](LICENSE) *(unless otherwise stated)*
