@@ -1,7 +1,6 @@
 Free "public domain"-like licensed resources.  
 
-
-- Use [resources-learning](../resources-learning/) to begin a learning
+- Start with [resources-learning](https://MechatronicBeing.github.io/resources-learning/)
 - See [listing/alphabetical.md](listing/alphabetical.md) for all resources available
 - Use [listing/gitClone.sh](listing/gitClone.sh) to clone all resources repositories
 
