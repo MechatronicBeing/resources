@@ -1,9 +1,5 @@
-# Drawing resources 
-Royalty-free (public domain or CC0-licensed) resources for drawing.
-
-## [Applications](applications/)
-### [Web](applications/web/)
-- [svg-whiteboard](applications/web/svg-whiteboard/whiteboard.html)
+# MechatronicBeing resources 
+Royalty-free (public domain or CC0-licensed) resources.
 
 ## Licenses
 - **Main content** : [Creative Commons CC0 Public Domain Dedication](LICENSE) *(unless otherwise stated)*
