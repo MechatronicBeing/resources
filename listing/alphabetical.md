@@ -1,0 +1,5 @@
+[Drawing](https://github.com/MechatronicBeing/resources-drawing)
+[Learning](https://github.com/MechatronicBeing/resources-learning)
+[Listening](https://github.com/MechatronicBeing/resources-listening)
+[Reading](https://github.com/MechatronicBeing/resources-reading)
+[Writing](https://github.com/MechatronicBeing/resources-writing)
