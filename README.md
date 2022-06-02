@@ -1,7 +1,5 @@
 Free "public domain"-like licensed resources.
 
-Free "public domain"-like licensed resources for EVALUATING.
-
 ## Licenses
 - **Main content** : [Creative Commons CC0 Public Domain Dedication](LICENSE) *(unless otherwise stated)*
 - **Other content, data and media** use "public domain"-like licenses, among :
