@@ -18,13 +18,13 @@ New "pull request" are subject to verification (license, format...)
   - separate or derivative work
   - copyrighted or non-copyrighted work
   - commercial or non-commercial work
-  - no contact or citation obligation
+  - unmandatory contact or citation from the author(s)
 
-## Type of file
-- Files need to be smallest as possible
+## Type of files
+- smallest as possible
   - faster download
   - more files added
-- Files need to be easy openable and editable
+- easy openable and editable
   - with the most basic pre-installed software
     - a simple text editor
     - a basic image editor
