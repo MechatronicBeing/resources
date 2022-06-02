@@ -1,7 +1,7 @@
 Free "public domain"-like licensed resources.  
 
-- See (listing/alphabetical)[listing/alphabetical.md]
-- Use (listing/gitClone.sh)[listing/gitClone.sh] to clone all repositories.
+- See [listing/alphabetical.md](listing/alphabetical) for complete list of sub-resources
+- Use [listing/gitClone.sh](listing/gitClone.sh) to clone all resources repositories.
 
 ## Licenses
 - **Main content** : [Creative Commons CC0 Public Domain Dedication](LICENSE) *(unless otherwise stated)*
