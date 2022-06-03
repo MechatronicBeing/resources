@@ -3,6 +3,7 @@
 [Counting](https://mechatronicbeing.github.io/resources-counting/)  
 [Drawing](https://mechatronicbeing.github.io/resources-drawing/)  
 [Evaluating](https://mechatronicbeing.github.io/resources-evaluating/)  
+[Exploring](https://mechatronicbeing.github.io/resources-exploring/)  
 [Learning](https://mechatronicbeing.github.io/resources-learning/)  
 [Listening](https://mechatronicbeing.github.io/resources-listening/)  
 [Playing games](https://mechatronicbeing.github.io/resources-playing-games/)  
