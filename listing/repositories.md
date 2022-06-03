@@ -5,6 +5,7 @@
 [Evaluating](https://github.com/MechatronicBeing/resources-evaluating/)  
 [Learning](https://github.com/MechatronicBeing/resources-learning/)  
 [Listening](https://github.com/MechatronicBeing/resources-listening/)  
+[Playing games](https://github.com/MechatronicBeing/resources-playing-games/)  
 [Reading](https://github.com/MechatronicBeing/resources-reading/)  
 [Translating](https://github.com/MechatronicBeing/resources-translating/)  
 [Writing](https://github.com/MechatronicBeing/resources-writing/)  
