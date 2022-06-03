@@ -1,4 +1,4 @@
-## Repositories in <https://github.com/MechatronicBeing/resources>
+## All resources repositories
 [Calculating](https://github.com/MechatronicBeing/resources-calculating/)  
 [Counting](https://github.com/MechatronicBeing/resources-counting/)  
 [Drawing](https://github.com/MechatronicBeing/resources-drawing/)  
