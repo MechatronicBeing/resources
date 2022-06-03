@@ -1,7 +1,7 @@
 # CONTRIBUTING
 
 ## Fork
-You can fork any repository.  
+You can fork any repository of MechatronicBeing.  
 New "pull requests" are subject to verification (license, format...)
 
 ## Adding new content, data and media
@@ -12,13 +12,13 @@ New "pull requests" are subject to verification (license, format...)
   - the BSD Zero Clause License
   - the MIT No Attribution
   - the WTFPL
-- The license must be clear, and write in a file or in the README.md
 - Allow :
   - any use, any purpose
   - separate or derivative work
   - copyrighted or non-copyrighted work
   - commercial or non-commercial work
-  - unmandatory contact or citation from the author(s)
+  - unmandatory contact or citation from the author(s) 
+- The license must be clear, and writed in a file or in the README.md
 
 ## Type of files
 - smallest as possible
