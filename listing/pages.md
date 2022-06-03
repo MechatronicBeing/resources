@@ -1,14 +1,10 @@
-| Resources in <https://mechatronicbeing.github.io/resources>                                      |
-|--------------------------------------------------------------------------------------------------|
-| [Calculating](https://mechatronicbeing.github.io/resources-calculating/)                         |
-| [Counting](https://mechatronicbeing.github.io/resources-counting/)                               |
-| [Drawing](https://mechatronicbeing.github.io/resources-drawing/)                                 | 
-| [Evaluating](https://mechatronicbeing.github.io/resources-evaluating/)                           |
-| [Learning](https://mechatronicbeing.github.io/resources-learning/)                               | 
-| [Listening](https://mechatronicbeing.github.io/resources-listening/)                             | 
-| [Reading](https://mechatronicbeing.github.io/resources-reading/)                                 | 
-| [Translating](https://mechatronicbeing.github.io/resources-translating/)                         | 
-| [Writing](https://mechatronicbeing.github.io/resources-writing/)                                 |
-
-
-
+## Resources in <https://mechatronicbeing.github.io/resources>
+[Calculating](https://mechatronicbeing.github.io/resources-calculating/)  
+[Counting](https://mechatronicbeing.github.io/resources-counting/)  
+[Drawing](https://mechatronicbeing.github.io/resources-drawing/)  
+[Evaluating](https://mechatronicbeing.github.io/resources-evaluating/)  
+[Learning](https://mechatronicbeing.github.io/resources-learning/)  
+[Listening](https://mechatronicbeing.github.io/resources-listening/)  
+[Reading](https://mechatronicbeing.github.io/resources-reading/)  
+[Translating](https://mechatronicbeing.github.io/resources-translating/)  
+[Writing](https://mechatronicbeing.github.io/resources-writing/)  
