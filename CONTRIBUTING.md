@@ -31,6 +31,15 @@ New "pull requests" are subject to verification (license, format...)
     - a basic sound player
     - a basic web browser (with javascript working)
 
+## Naming conventions and URLs
+- "https://github.com/MechatronicBeing/resources/listing/" is a **FOLDER** inside *resources*
+- "https://github.com/MechatronicBeing/resources/listing" is a **FILE** in *resources*
+- lower case names (ex. "resources-playing-music" or "resources-drawing-pictures") or camelCase for special case
+  - exception : easier reading names, like "MechatronicBeing"
+- hyphens in name for each "sub-categories" 
+  - example : "resources-drawing-pictures" can be read as "resources/drawing/pictures/" (meaning other "resources" and "resources-drawing" exists)
+  - exception : special words, like "MechatronicBeing" 
+
 ## Contacts
 - **Public forum** : use the "[Discussions](https://github.com/MechatronicBeing/MechatronicBeing.github.io/discussions)"
   - for conversations (but not issues) with the community 
