@@ -1,7 +1,0 @@
-git clone --progress -v "https://github.com/MechatronicBeing/resources-counting.git"
-git clone --progress -v "https://github.com/MechatronicBeing/resources-drawing.git"
-git clone --progress -v "https://github.com/MechatronicBeing/resources-evaluating.git"
-git clone --progress -v "https://github.com/MechatronicBeing/resources-learning.git"
-git clone --progress -v "https://github.com/MechatronicBeing/resources-listening.git"
-git clone --progress -v "https://github.com/MechatronicBeing/resources-reading.git"
-git clone --progress -v "https://github.com/MechatronicBeing/resources-writing.git"

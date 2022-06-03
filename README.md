@@ -1,8 +1,8 @@
 Free "public domain"-like licensed resources.  
 
 - Start with [resources-learning](https://MechatronicBeing.github.io/resources-learning/)
-- See [listing/pages](listing/pages.md) for Pages, or [listing/repositories](listing/repositories.md) for files
-- Use [listing/gitClone.sh](listing/gitClone.sh) to clone all resources repositories
+- See [lists/pages](lists/pages.md) for Pages, or [lists/repositories](lists/repositories.md) for files
+- See [lists/git/](lists/git/) for cloning, fetching and pulling ALL remote resources to local in ONE operation
 
 ## Licenses
 - **Main content** : [Creative Commons CC0 Public Domain Dedication](LICENSE) *(unless otherwise stated)*
