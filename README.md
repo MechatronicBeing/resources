@@ -1,4 +1,4 @@
-Free "public domain"-like licensed resources.  
+Free resources, under "public domain" or equivalent.
 For human or machine learning.
 
 - [start learning](https://MechatronicBeing.github.io/resources-learning/)
