@@ -1,7 +1,8 @@
 Free resources, under "public domain" or similar.  
-For human/machine activities (learning, creating, playing, reading...).
+For human or machine activities (learning, creating, playing, reading...).
 
-- [start learning](https://MechatronicBeing.github.io/resources-learning/)
+- [Return to the homepage project](https://mechatronicbeing.github.io/)
+- [Start learning](https://MechatronicBeing.github.io/resources-learning/)
 - See [lists/pages](lists/pages.md) for pages, or [lists/repositories](lists/repositories.md) for files.
 - Use [lists/git/](lists/git/) for cloning, fetching, pulling ALL resources in ONE operation
 
