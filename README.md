@@ -1,8 +1,9 @@
 Free "public domain"-like licensed resources.  
+For human or machine learning.
 
-- Start with [resources-learning](https://MechatronicBeing.github.io/resources-learning/)
-- See [lists/pages](lists/pages.md) for pages, or [lists/repositories](lists/repositories.md) for files
-- Use [lists/git/](lists/git/) for cloning, fetching, pulling ALL resources repositories in ONE operation
+- [start learning](https://MechatronicBeing.github.io/resources-learning/)
+- See [lists/pages](lists/pages.md) for pages, or [lists/repositories](lists/repositories.md) for files.
+- Use [lists/git/](lists/git/) for cloning, fetching, pulling ALL resources in ONE operation
 
 ## Licenses
 - **Main content** : [Creative Commons CC0 Public Domain Dedication](LICENSE) *(unless otherwise stated)*
