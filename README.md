@@ -7,7 +7,7 @@ For human or machine learning.
 
 ## Licenses
 - **Main content** : [Creative Commons CC0 Public Domain Dedication](LICENSE) *(unless otherwise stated)*
-- **Other content, data and media** use "public domain"-like licenses, among :
+- **Other content, data and media** use "public domain" or similar licenses, among :
   - a Public Domain dedication 
   - the [Creative Commons CC0 Public Domain Dedication](LICENSE)
   - the Unlicense
