@@ -1,5 +1,5 @@
 Free resources, under "public domain" or similar.  
-For human or machine learning.
+For human/machine activities (learning, creating, playing, reading...).
 
 - [start learning](https://MechatronicBeing.github.io/resources-learning/)
 - See [lists/pages](lists/pages.md) for pages, or [lists/repositories](lists/repositories.md) for files.
