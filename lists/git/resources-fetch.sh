@@ -1,4 +1,4 @@
-echo "CHECK all resources local-repositories for changes with the remote (but don't update them)"
+echo "CHECK all local resources for remote changes (but don't update them)"
 cd resources && git fetch -v --progress "origin" && cd ..
 cd resources-calculating && git fetch -v --progress "origin" && cd ..
 cd resources-counting && git fetch -v --progress "origin" && cd ..

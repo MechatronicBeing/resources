@@ -1,4 +1,4 @@
-echo "UPDATE all resources local-repositories"
+echo "UPDATE all local resources (download files/changes from remote)"
 cd resources && git pull -v --progress --no-rebase "origin" && cd ..
 cd resources-calculating && git pull -v --progress --no-rebase "origin" && cd ..
 cd resources-counting && git pull -v --progress --no-rebase "origin" && cd ..

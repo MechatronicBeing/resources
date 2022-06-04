@@ -1,4 +1,4 @@
-echo "Download all remote resources to local-repositories"
+echo "DOWNLOAD all remote resources to local"
 git clone --progress -v "https://github.com/MechatronicBeing/resources.git"
 git clone --progress -v "https://github.com/MechatronicBeing/resources-calculating.git"
 git clone --progress -v "https://github.com/MechatronicBeing/resources-counting.git"
