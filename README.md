@@ -1,5 +1,5 @@
 Free "public domain" resources.  
-For human or machine activities (learning, creating, playing, reading...).
+For many human or machine activities (learning, creating, playing, reading...).
 
 - [Return to the homepage project](https://mechatronicbeing.github.io/)
 - [Start learning](https://MechatronicBeing.github.io/resources-learning/)
