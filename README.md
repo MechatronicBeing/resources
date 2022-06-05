@@ -1,4 +1,4 @@
-Free resources, under "public domain" or similar.  
+Free "public domain" resources.  
 For human or machine activities (learning, creating, playing, reading...).
 
 - [Return to the homepage project](https://mechatronicbeing.github.io/)
