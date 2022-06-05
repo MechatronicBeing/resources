@@ -9,6 +9,7 @@ cd resources-exploring && git fetch -v --progress "origin" && cd ..
 cd resources-learning && git fetch -v --progress "origin" && cd ..
 cd resources-listening && git fetch -v --progress "origin" && cd ..
 cd resources-playing-games && git fetch -v --progress "origin" && cd ..
+cd resources-programing && git fetch -v --progress "origin" && cd ..
 cd resources-reading && git fetch -v --progress "origin" && cd ..
 cd resources-translating && git fetch -v --progress "origin" && cd ..
 cd resources-writing && git fetch -v --progress "origin" && cd ..

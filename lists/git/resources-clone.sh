@@ -9,6 +9,7 @@ git clone --progress -v "https://github.com/MechatronicBeing/resources-exploring
 git clone --progress -v "https://github.com/MechatronicBeing/resources-learning.git"
 git clone --progress -v "https://github.com/MechatronicBeing/resources-listening.git"
 git clone --progress -v "https://github.com/MechatronicBeing/resources-playing-games.git"
+git clone --progress -v "https://github.com/MechatronicBeing/resources-programing.git"
 git clone --progress -v "https://github.com/MechatronicBeing/resources-reading.git"
 git clone --progress -v "https://github.com/MechatronicBeing/resources-translating.git"
 git clone --progress -v "https://github.com/MechatronicBeing/resources-writing.git"
