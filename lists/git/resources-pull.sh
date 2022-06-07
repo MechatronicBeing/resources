@@ -6,9 +6,11 @@ cd resources-drawing && git pull -v --progress --no-rebase "origin" && cd ..
 cd resources-engineering && git pull -v --progress --no-rebase "origin" && cd ..
 cd resources-evaluating && git pull -v --progress --no-rebase "origin" && cd ..
 cd resources-exploring && git pull -v --progress --no-rebase "origin" && cd ..
+cd resources-images && git pull -v --progress --no-rebase "origin" && cd ..
 cd resources-learning && git pull -v --progress --no-rebase "origin" && cd ..
 cd resources-listening && git pull -v --progress --no-rebase "origin" && cd ..
-cd resources-playing-games && git pull -v --progress --no-rebase "origin" && cd ..
+cd resources-playing-board-games && git pull -v --progress --no-rebase "origin" && cd ..
+cd resources-playing-video-games && git pull -v --progress --no-rebase "origin" && cd ..
 cd resources-programing && git pull -v --progress --no-rebase "origin" && cd ..
 cd resources-reading && git pull -v --progress --no-rebase "origin" && cd ..
 cd resources-reading-comics && git pull -v --progress --no-rebase "origin" && cd ..
