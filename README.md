@@ -27,10 +27,10 @@ For many human or machine activities (learning, creating, playing, reading...).
   - verify LICENSE files/mentions, accordingly to each work, in case of -rare- exceptions
 
 ## Contacts
-- **Public forum** : use the "[Discussions](https://github.com/MechatronicBeing/MechatronicBeing.github.io/discussions)"
+- **Public forum** : use the "[Discussions](https://github.com/MechatronicBeing/resources/discussions)"
   - for conversations (but not issues) with the community 
   - a github account is needed
-- **Public issues** : use the "[Issues](https://github.com/MechatronicBeing/MechatronicBeing.github.io/issues)"
+- **Public issues** : use the "[Issues](https://github.com/MechatronicBeing/resources/issues)"
   - for bugs or errors, new features or requests, helps wanted, questions (but not public conversations)
   - a github account is needed
 - **Private message** : MechatronicBeing![](https://raw.githubusercontent.com/MechatronicBeing/MechatronicBeing.github.io/main/images/symbols/other/atsign.png)![](https://raw.githubusercontent.com/MechatronicBeing/MechatronicBeing.github.io/main/images/symbols/bf/g.png)![](https://raw.githubusercontent.com/MechatronicBeing/MechatronicBeing.github.io/main/images/symbols/bf/m.png)![](https://raw.githubusercontent.com/MechatronicBeing/MechatronicBeing.github.io/main/images/symbols/bf/a.png)![](https://raw.githubusercontent.com/MechatronicBeing/MechatronicBeing.github.io/main/images/symbols/bf/i.png)![](https://raw.githubusercontent.com/MechatronicBeing/MechatronicBeing.github.io/main/images/symbols/bf/l.png)![](https://raw.githubusercontent.com/MechatronicBeing/MechatronicBeing.github.io/main/images/symbols/other/centerdot.png)![](https://raw.githubusercontent.com/MechatronicBeing/MechatronicBeing.github.io/main/images/symbols/bf/c.png)![](https://raw.githubusercontent.com/MechatronicBeing/MechatronicBeing.github.io/main/images/symbols/bf/o.png)![](https://raw.githubusercontent.com/MechatronicBeing/MechatronicBeing.github.io/main/images/symbols/bf/m.png)
