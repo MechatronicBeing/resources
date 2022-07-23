@@ -1,6 +1,8 @@
-echo "CHECK all local resources for remote changes (but don't update them)"
+echo "GIT Fetch all local resources from remote"
 cd resources && git fetch -v --progress "origin" && cd ..
 cd resources-calculating && git fetch -v --progress "origin" && cd ..
+cd resources-classic-games && git fetch -v --progress "origin" && cd ..
+cd resources-comics && git fetch -v --progress "origin" && cd ..
 cd resources-computer-games && git fetch -v --progress "origin" && cd ..
 cd resources-computer-programming && git fetch -v --progress "origin" && cd ..
 cd resources-computer-programs && git fetch -v --progress "origin" && cd ..
@@ -10,12 +12,16 @@ cd resources-drawing && git fetch -v --progress "origin" && cd ..
 cd resources-engineering && git fetch -v --progress "origin" && cd ..
 cd resources-evaluating && git fetch -v --progress "origin" && cd ..
 cd resources-exploring && git fetch -v --progress "origin" && cd ..
+cd resources-geographic-atlas && git fetch -v --progress "origin" && cd ..
+cd resources-geographic-data && git fetch -v --progress "origin" && cd ..
 cd resources-images && git fetch -v --progress "origin" && cd ..
+cd resources-images-sprites && git fetch -v --progress "origin" && cd ..
 cd resources-learning && git fetch -v --progress "origin" && cd ..
 cd resources-listening && git fetch -v --progress "origin" && cd ..
-cd resources-playing-board-games && git fetch -v --progress "origin" && cd ...
+cd resources-music-videogames && git fetch -v --progress "origin" && cd ..
 cd resources-reading && git fetch -v --progress "origin" && cd ..
-cd resources-reading-comics && git fetch -v --progress "origin" && cd ..
 cd resources-socializing && git fetch -v --progress "origin" && cd ..
+cd resources-sounds && git fetch -v --progress "origin" && cd ..
 cd resources-translating && git fetch -v --progress "origin" && cd ..
+cd resources-videos && git fetch -v --progress "origin" && cd ..
 cd resources-writing && git fetch -v --progress "origin" && cd ..
